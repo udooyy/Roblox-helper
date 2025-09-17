@@ -1,0 +1,46 @@
+{
+    "bot": {
+        "name": "Roblox Helper Bot",
+        "description": "A bot to help you create amazing games on Roblox!",
+        "version": "1.0.0",
+        "activity": {
+            "type": "watching",
+            "name": "Roblox developers"
+        }
+    },
+    "colors": {
+        "primary": "#5865F2",
+        "success": "#57F287", 
+        "warning": "#FEE75C",
+        "error": "#ED4245",
+        "info": "#3498DB",
+        "purple": "#9B59B6",
+        "gold": "#F1C40F",
+        "cyan": "#1ABC9C",
+        "teal": "#2ECC71",
+        "green": "#00FF00",
+        "blue": "#0000FF",
+        "orange": "#FF8C00",
+        "red": "#FF0000"
+    },
+    "limits": {
+        "max_embed_fields": 25,
+        "max_embed_description": 4096,
+        "max_field_value": 1024,
+        "command_cooldown": 2
+    },
+    "features": {
+        "enable_slash_commands": false,
+        "enable_error_logging": true,
+        "enable_command_logging": true,
+        "auto_delete_errors": false
+    },
+    "urls": {
+        "roblox_dev_hub": "https://developer.roblox.com/",
+        "roblox_api_reference": "https://developer.roblox.com/en-us/api-reference",
+        "luau_docs": "https://luau-lang.org/",
+        "creator_hub": "https://create.roblox.com/",
+        "dev_forum": "https://devforum.roblox.com/",
+        "discord_dev_portal": "https://discord.com/developers/applications"
+    }
+}
